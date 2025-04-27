@@ -4,8 +4,6 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![GitHub Issues](https://img.shields.io/github/issues/udaykotian/Project-WebScraper-Quotes)
 
-# Project-WebScraper-Quotes
-
 A lightweight Python web scraper that extracts quotes, authors, and tags from the static website [quotes.toscrape.com](http://quotes.toscrape.com/) using `requests` and `BeautifulSoup`. The scraped data is saved in a structured CSV file (`quotes.csv`) for easy analysis.
 
 ## Table of Contents
